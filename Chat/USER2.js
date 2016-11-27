@@ -1,0 +1,1 @@
+var user2 = 'START CHAT:  ';
